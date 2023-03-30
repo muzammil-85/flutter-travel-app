@@ -57,9 +57,7 @@ class InfoPage extends StatelessWidget {
                           ),
                         ),
                       ),
-                      SizedBox(
-                        width: 200,
-                      ),
+                      SizedBox(width: 200),
                       Padding(
                         padding: const EdgeInsets.all(13.0),
                         child: Container(
